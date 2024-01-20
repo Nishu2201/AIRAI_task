@@ -24,14 +24,11 @@ header {
   color: var(--textColor);
 }
 
-header h3 {
-  margin-right: 70%;
-  font-size: x-large;
-}
-
-header h3:hover {
-  transform: scale(1.2);
-  color: #e21425;
+header img{
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  margin-right: 65%;
 }
 
 nav a {
