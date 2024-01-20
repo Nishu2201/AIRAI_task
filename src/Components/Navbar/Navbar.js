@@ -13,7 +13,7 @@ function Navbar() {
 
 	return (
 		<header>
-			<h3>AIRAI</h3>
+			<img src="https://static.wixstatic.com/media/b9eb8b_909f72f001a74e938b6c0700e1637cf8~mv2.png/v1/fill/w_276,h_276,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/company%20logo.png" alt="AIRAI"/>
 			<nav ref={navRef}>
 				<a href="/">Home</a>
 				<a href="/">About us</a>
