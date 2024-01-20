@@ -16,12 +16,12 @@ function Navbar() {
 			<h3>AIRAI</h3>
 			<nav ref={navRef}>
 				<a href="/">Home</a>
-				<a href="/about">About us</a>
+				<a href="/">About us</a>
                 <div className="nav-dropdown">
-					<a href="/contact">Contact</a>
+					<a href="/">Contact</a>
 					<ul className="dropdown-content">
-						<li><a href="/Career">Careers</a></li>
-						<li><a href="/Address">Address</a></li>
+						<li><a href="/">Careers</a></li>
+						<li><a href="/">Address</a></li>
 					</ul>
 				</div>
 				<button
